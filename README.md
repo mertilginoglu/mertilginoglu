@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Mert Ilgınoğlu 👋
+
+* I am a junior backend developer currently working for Rollic. 
+* Got my B.Sc. in Computer Science & Engineering from Sabancı University in 2022. 
+* Mainly interested in coding with Python and Golang.
+
+### 📫 How to reach me?
+- [LinkedIn](https://www.linkedin.com/in/mert-ilginoglu/) 
 
 <!--
 **mertilginoglu/mertilginoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
