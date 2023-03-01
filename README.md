@@ -3,6 +3,7 @@
 * I am a junior backend developer currently working for Rollic. 
 * Got my B.Sc. in Computer Science & Engineering from Sabancı University in 2022. 
 * Mainly interested in coding with Python and Golang.
+* Currently learning Rust.
 
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/mert-ilginoglu/) 
