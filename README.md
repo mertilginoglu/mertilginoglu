@@ -1,5 +1,5 @@
 ### Hi there, I'm Mert Ilgınoğlu 👋
-
+* I am an incoming M.Sc. student at Technical University of Munich. 
 * Got my B.Sc. in Computer Science & Engineering from Sabancı University in 2022. 
 
 ### 📫 How to reach me?
