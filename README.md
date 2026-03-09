@@ -1,9 +1,8 @@
-### Hi there, I'm Mert Ilgınoğlu 👋
-* I am an incoming M.Sc. student at Technical University of Munich. 
-* Got my B.Sc. in Computer Science & Engineering from Sabancı University in 2022. 
+  # Hi there, I'm Mert Ilgınoğlu 👋
 
-### 📫 How to reach me?
-- [LinkedIn](https://www.linkedin.com/in/mert-ilginoglu/) 
+  M.Sc. student at Technical University of Munich.
+
+  [LinkedIn](https://www.linkedin.com/in/mert-ilginoglu/)
 
 <!--
 **mertilginoglu/mertilginoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
